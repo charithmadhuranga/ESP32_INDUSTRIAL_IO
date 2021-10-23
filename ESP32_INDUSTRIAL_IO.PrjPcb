@@ -160,7 +160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BUPTMZFY
 
 [Document8]
-DocumentPath=EtherCAT.SchDoc
+DocumentPath=EtherCAT-INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -328,6 +328,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTTQRTOE
+
+[Document18]
+DocumentPath=ESP32_INDUSTRIAL_IO.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EURLYOGU
 
 [Configuration1]
 Name=Sources
