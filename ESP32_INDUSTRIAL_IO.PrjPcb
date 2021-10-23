@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=LAN9252.SchDoc
+DocumentPath=LAN9252-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,6 +143,40 @@ GenerateClassCluster=0
 DocumentUniqueId=HVCDJVIV
 
 [Document7]
+DocumentPath=LAN9252-2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUPTMZFY
+
+[Document8]
+DocumentPath=EtherCAT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIQPFDHG
+
+[Document9]
 DocumentPath=MCP23017-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERAZSWLU
 
-[Document8]
+[Document10]
 DocumentPath=MCP23017-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,9 +208,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JHSHYKRH
+DocumentUniqueId=TXBCIKGV
 
-[Document9]
+[Document11]
 DocumentPath=MCP23017-3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVRFBJAX
 
-[Document10]
+[Document12]
 DocumentPath=MCP23017-4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHSHYKRH
 
-[Document11]
+[Document13]
 DocumentPath=MCP23017-5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXKHKBWU
 
-[Document12]
+[Document14]
 DocumentPath=MCP23017-6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBBPADKS
 
-[Document13]
+[Document15]
 DocumentPath=MCP23017-7.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSUNXFWW
 
-[Document14]
+[Document16]
 DocumentPath=MCP23017-8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJNEQPEF
 
-[Document15]
+[Document17]
 DocumentPath=CONN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

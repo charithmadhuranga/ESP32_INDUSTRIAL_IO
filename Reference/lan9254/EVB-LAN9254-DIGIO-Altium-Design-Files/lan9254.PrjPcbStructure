@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=PAGE 01-ToC.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=PAGE 01-ToC.SchDoc|FileName=Page 02-BlockDiagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=PAGE 01-ToC.SchDoc|FileName=PAGE 03-Power&I2C.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=PAGE 01-ToC.SchDoc|FileName=Page 04-LAN9254-Part1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=PAGE 01-ToC.SchDoc|FileName=Page 05-LAN9254-Part2.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=PAGE 01-ToC.SchDoc|FileName=PAGE 06-Copper Ports.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=PAGE 01-ToC.SchDoc|FileName=PAGE 07-DIGITAL IO.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=PAGE 01-ToC.SchDoc|FileName=Page 08-Strap&LEDs.SchDoc|SheetNumber=8
