@@ -160,7 +160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BUPTMZFY
 
 [Document8]
-DocumentPath=EtherCAT-INPUT.SchDoc
+DocumentPath=EtherCAT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +208,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TXBCIKGV
+DocumentUniqueId=QWHRAUZK
 
 [Document11]
 DocumentPath=MCP23017-3.SchDoc
@@ -310,7 +310,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XJNEQPEF
+DocumentUniqueId=MHJXNTZD
 
 [Document17]
 DocumentPath=CONN.SchDoc
