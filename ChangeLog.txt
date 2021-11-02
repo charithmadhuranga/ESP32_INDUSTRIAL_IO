@@ -1,0 +1,4 @@
+October 30, 2021:
+1. Create a master card
+2. Flip PCIe x1 connector, so people don't plug random shit there
+3. 2.54mm header HX/MX/GX series with clipper
